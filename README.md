@@ -5,6 +5,16 @@
 
 I am a **Mathematics student** and **Data Analyst** transitioning toward **Data Science**. My focus lies in the intersection of **Statistical Rigor** and **Scalable Data Architecture**. I don't just process data; I build reliable environments to extract its true value.
 
+---
+
+## 🧪 Mathematical Specialties in Data Science
+* **Linear Algebra:** Applied to dimensionality reduction (PCA) and neural network foundations.
+* **Probability & Statistics:** Hypothesis testing, distribution analysis, and predictive uncertainty.
+* **Optimization:** Understanding the mechanics behind gradient-based learning algorithms.
+* **Discrete Mathematics:** Logic and set theory applied to complex SQL architectures.
+
+---
+
 ## 🛠️ My Tech Stack
 
 ### 💻 Languages & Databases
@@ -17,39 +27,36 @@ I am a **Mathematics student** and **Data Analyst** transitioning toward **Data 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 
 ### 📊 Business Intelligence & Visualization
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+### [Lumina Fashion Group: End-to-End Retail Analytics](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
+**The Challenge:** Unify 4 fragmented data domains and optimize profit margins using SQL & Python.
+* **Key Achievement:** Developed a Star Schema architecture and identified a "Discount Paradox" through median-based aggregation.
+* **Strategic Outcome:** Recommended volume-based bundling to protect profitability, preventing a 15% margin erosion.
+> [!IMPORTANT]
+> [Explore the Full Strategic Case Study on Notion](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c)
 
 ---
 
 ## 📊 About Me
 - 🎓 Currently pursuing a **Bachelor’s in Mathematics**.
 - 🛠️ Specialized in building **ETL pipelines** and **Star Schema** architectures.
-- 💡 Focused on finding the "why" behind numbers.
 - 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
-
-## 🎯 My Focus & Goals
-- 🧠 **Statistical Rigor:** Applying advanced mathematical foundations to ensure model accuracy and data integrity.
-- 🏗️ **Architecture:** Crafting **Star Schema** designs and **ETL pipelines** that scale.
-- 📈 **Machine Learning:** Currently deepening my expertise in predictive modeling and automated insights.
-
----
-
-## 🚀 Featured Projects: 
-**Lumina Fashion Group**
-**End-to-End Retail Analytics Case Study**
-- **The Challenge:** Unify 4 fragmented data domains and optimize profit margins.
-- **Key Insight:** Proved that discounts >20% eroded margins without scaling volume.
-- [🔗 View Project Repository](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
+- 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
 
 ---
 
 ## 📈 My GitHub Stats
 ![Stats](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true)
-
 ![Top Langs](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true)
 
 ---
