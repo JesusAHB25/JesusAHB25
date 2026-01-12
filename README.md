@@ -5,15 +5,19 @@
 
 I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data Science**. My focus lies in the intersection of **Statistical Rigor** and **Scalable Data Architecture**. I don't just process data; I build reliable environments to extract its true value.
 
+## 📊 About Me
+- 🎓 Currently pursuing a **Bachelor’s in Mathematics**.
+- 🛠️ Specialized in building **ETL pipelines** and **Star Schema** architectures.
+- 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
+- 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
 
+## 🎯 Strategic Roadmap & Future Goals
+I am committed to continuous growth at the intersection of mathematical rigor and advanced computing. My current focus is on:
 
-## 🧪 Mathematical Specialties in Data Science
-* **Linear Algebra:** Applied to dimensionality reduction (PCA) and neural network foundations.
-* **Probability & Statistics:** Hypothesis testing, distribution analysis, and predictive uncertainty.
-* **Optimization:** Understanding the mechanics behind gradient-based learning algorithms.
-* **Discrete Mathematics:** Logic and set theory applied to complex SQL architectures.
-
-
+- **🏗️ Data Engineering:** Scaling ETL pipelines into cloud environments (AWS/Azure) and mastering orchestration tools like Airflow.
+- **🧠 Deep Learning:** Exploring Neural Network architectures and their mathematical foundations for predictive modeling.
+- **📉 Advanced Statistics:** Implementing Bayesian inference and Causal Analysis to drive more nuanced business decisions.
+- **☁️ Cloud Computing:** Pursuing certifications to deploy production-ready data solutions in the cloud.
 
 ## 🛠️ My Tech Stack
 
@@ -35,7 +39,6 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
 
-
 ## 🚀 Featured Project
 ### [Lumina Fashion Group: End-to-End Retail Analytics](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
 **The Challenge:** Unify 4 fragmented data domains and optimize profit margins using SQL & Python.
@@ -45,18 +48,10 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 > [Explore the Full Strategic Case Study on Notion](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c)
 
 
-
-## 📊 About Me
-- 🎓 Currently pursuing a **Bachelor’s in Mathematics**.
-- 🛠️ Specialized in building **ETL pipelines** and **Star Schema** architectures.
-- 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
-- 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
-
-
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JesusAHB25&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusAHB25&theme=radical" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JesusAHB25&theme=radical" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusAHB25&theme=radical" height="180" />
 </p>
 
 ## 📫 Let's Connect:
