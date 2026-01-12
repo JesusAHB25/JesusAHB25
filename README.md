@@ -1,5 +1,9 @@
-# Hi there, I'm Jesús. 👋 
-### Mathematics Student & Data Analyst | Data Architecture & Statistical Rigor
+# # Hi there, I'm Jesús 👋 🤖🧿
+### Mathematics Student & Aspiring Data Scientist 🚀
+
+> **"Bridging the gap between mathematical theory and data-driven decision making."**
+
+I am a **Mathematics student** and **Data Analyst** transitioning toward **Data Science**. My focus lies in the intersection of **Statistical Rigor** and **Scalable Data Architecture**. I don't just process data; I build reliable environments to extract its true value.
 
 ---
 
@@ -10,16 +14,15 @@
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 Data Science & Engineering
+### 🧪 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 📊 Visualization & Business Intelligence
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 📊 Business Intelligence & Visualization
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4479A1?style=for-the-badge&logo=python&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
 ---
@@ -29,6 +32,13 @@
 - 🛠️ Specialized in building **ETL pipelines** and **Star Schema** architectures.
 - 💡 Focused on finding the "why" behind numbers.
 - 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
+
+## 🎯 My Focus & Goals
+- 🧠 **Statistical Rigor:** Applying advanced mathematical foundations to ensure model accuracy and data integrity.
+- 🏗️ **Architecture:** Crafting **Star Schema** designs and **ETL pipelines** that scale.
+- 📈 **Machine Learning:** Currently deepening my expertise in predictive modeling and automated insights.
+
+---
 
 ## 🚀 Featured Projects: 
 **Lumina Fashion Group**
