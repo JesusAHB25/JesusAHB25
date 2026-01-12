@@ -55,9 +55,10 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 
 
 ## 📈 My GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true" alt="Jesus Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
+</p>
 
 
 
