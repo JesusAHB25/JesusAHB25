@@ -40,8 +40,12 @@
 ---
 
 ## 📈 My GitHub Stats
-![JesusAHB25's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true" alt="Jesus's GitHub stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusAHB25&theme=radical)
 
 ---
 
