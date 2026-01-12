@@ -5,7 +5,7 @@
 
 I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data Science**. My focus lies in the intersection of **Statistical Rigor** and **Scalable Data Architecture**. I don't just process data; I build reliable environments to extract its true value.
 
----
+
 
 ## 🧪 Mathematical Specialties in Data Science
 * **Linear Algebra:** Applied to dimensionality reduction (PCA) and neural network foundations.
@@ -13,7 +13,7 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 * **Optimization:** Understanding the mechanics behind gradient-based learning algorithms.
 * **Discrete Mathematics:** Logic and set theory applied to complex SQL architectures.
 
----
+
 
 ## 🛠️ My Tech Stack
 
@@ -35,7 +35,7 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
----
+
 
 ## 🚀 Featured Project
 ### [Lumina Fashion Group: End-to-End Retail Analytics](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
@@ -45,7 +45,7 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 > [!IMPORTANT]
 > [Explore the Full Strategic Case Study on Notion](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c)
 
----
+
 
 ## 📊 About Me
 - 🎓 Currently pursuing a **Bachelor’s in Mathematics**.
@@ -53,13 +53,13 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 - 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
 - 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
 
----
+
 
 ## 📈 My GitHub Stats
 ![Stats](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true)
 ![Top Langs](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true)
 
----
+
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hernandez-33bbba18b/)
