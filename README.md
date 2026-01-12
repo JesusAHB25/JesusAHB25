@@ -40,15 +40,14 @@
 ---
 
 ## 📈 My GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true" alt="Jesus's GitHub stats" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusAHB25&theme=radical)
+![Stats](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats-git-masterhstq-hussain-tahirs-projects.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hernandez-33bbba18b/)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://purring-sailboat-492.notion.site/Jesus-Hernandez-Data-Portfolio-24d1d3119ed080c5bf0de65a37694de5?source=copy_link)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrjesus360@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+18014004296)
