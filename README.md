@@ -1,4 +1,4 @@
-# # Hi there, I'm Jesús 👋 🤖🧿
+# Hi there, I'm Jesús 👋 🤖🧿
 ### Mathematics Student & Aspiring Data Scientist 🚀
 
 **"Bridging the gap between mathematical theory and data-driven decision making."**
