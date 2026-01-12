@@ -30,7 +30,8 @@
 - 💡 Focused on finding the "why" behind numbers.
 - 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
 
-## 🚀 Featured Project: Lumina Fashion Group
+## 🚀 Featured Projects: 
+**Lumina Fashion Group**
 **End-to-End Retail Analytics Case Study**
 - **The Challenge:** Unify 4 fragmented data domains and optimize profit margins.
 - **Key Insight:** Proved that discounts >20% eroded margins without scaling volume.
@@ -39,8 +40,8 @@
 ---
 
 ## 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[JesusAHB25]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[JesusAHB25]&layout=compact&theme=radical)
+![JesusAHB25's GitHub stats](https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical)
 
 ---
 
