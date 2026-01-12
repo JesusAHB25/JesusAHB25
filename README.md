@@ -1,11 +1,9 @@
 # # Hi there, I'm Jesús 👋 🤖🧿
 ### Mathematics Student & Aspiring Data Scientist 🚀
 
-> **"Bridging the gap between mathematical theory and data-driven decision making."**
+**"Bridging the gap between mathematical theory and data-driven decision making."**
 
 I am a **Mathematics student** and **Data Analyst** transitioning toward **Data Science**. My focus lies in the intersection of **Statistical Rigor** and **Scalable Data Architecture**. I don't just process data; I build reliable environments to extract its true value.
-
----
 
 ## 🛠️ My Tech Stack
 
