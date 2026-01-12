@@ -53,15 +53,11 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 - 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
 
 
-
 ## 📈 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true" alt="Jesus Stats" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
 </p>
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JesusAHB25&theme=radical&hide_border=true)
-
-
 
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hernandez-33bbba18b/)
