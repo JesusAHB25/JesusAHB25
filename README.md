@@ -59,8 +59,6 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180">
 </p>
 
-![](https://stats.justsong.io/api/languages?username=JesusAHB25&theme=radical)
-
 ## 📫 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-hernandez-33bbba18b/)
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://purring-sailboat-492.notion.site/Jesus-Hernandez-Data-Portfolio-24d1d3119ed080c5bf0de65a37694de5?source=copy_link)
