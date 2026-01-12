@@ -43,7 +43,7 @@ I am a **Mathematics student** and **Data Analyst** transitioning toward **Data 
 **End-to-End Retail Analytics Case Study**
 - **The Challenge:** Unify 4 fragmented data domains and optimize profit margins.
 - **Key Insight:** Proved that discounts >20% eroded margins without scaling volume.
-- [🔗 View Project Repository](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c?source=copy_link)
+- [🔗 View Project Repository](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
 
 ---
 
