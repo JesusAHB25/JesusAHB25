@@ -55,8 +55,8 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true" alt="Jesus Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Jesus Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180">
 </p>
 
 ## 📫 Let's Connect:
