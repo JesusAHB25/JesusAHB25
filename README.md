@@ -50,8 +50,8 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 
 ## 📈 My GitHub Stats
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JesusAHB25&theme=radical&cache_seconds=1800" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesusAHB25&theme=radical&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_progress=false" height="180" />
 </p>
 
 ## 📫 Let's Connect:
