@@ -51,7 +51,7 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 ## 📈 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JesusAHB25&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical&hide_progress=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusAHB25&layout=compact&theme=radical" height="180" />
 </p>
 
 ## 📫 Let's Connect:
