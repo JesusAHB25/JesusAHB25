@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="banner.png" alt="Jesus AHB Banner" width="100%">
+</p>
 
 # Hi there, I'm Jesús 👋 🤖🧿
 ### Mathematics Student & Aspiring Data Scientist 🚀
