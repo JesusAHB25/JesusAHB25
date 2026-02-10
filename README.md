@@ -3,7 +3,7 @@
 </p>
 
 # Hi there, I'm Jesús 👋 🤖🧿
-### Mathematics Student & Aspiring Data Scientist 🚀
+### Mathematics Student & Trainee Data Scientist 🚀
 
 **"Bridging the gap between mathematical theory and data-driven decision making."**
 
@@ -11,17 +11,18 @@ I'm a **Mathematics student** and **Data Analyst** transitioning toward **Data S
 
 ## 📊 About Me
 - 🎓 Currently pursuing a **Bachelor’s in Mathematics**.
-- 🛠️ Specialized in building **ETL pipelines** and **Star Schema** architectures.
+- 🧪 Specialized in **Statistical Validation** (Pearson, P-Value) and **Relational Architectures**.
+- 🛠️ Expert in building **ETL pipelines** from synthetic simulations to PostgreSQL production.
 - 🌍 Bilingual: **English (C2)** | **Spanish (Native)**.
 - 🔭 **Currently Exploring:** Deep Learning foundations and Cloud Data Warehousing.
 
 ## 🎯 Strategic Roadmap & Future Goals
 I am committed to continuous growth at the intersection of mathematical rigor and advanced computing. My current focus is on:
 
-- **🏗️ Data Engineering:** Scaling ETL pipelines into cloud environments (AWS/Azure) and mastering orchestration tools like Airflow.
+- **🏗️ Data Engineering:** Scaling ETL pipelines into cloud environments (AWS/Azure).
 - **🧠 Deep Learning:** Exploring Neural Network architectures and their mathematical foundations for predictive modeling.
 - **📉 Advanced Statistics:** Implementing Bayesian inference and Causal Analysis to drive more nuanced business decisions.
-- **☁️ Cloud Computing:** Pursuing certifications to deploy production-ready data solutions in the cloud.
+- **☁️ Cloud Computing:** Pursuing training to deploy production-ready data solutions in the cloud.
 
 ## 🛠️ My Tech Stack
 
@@ -33,24 +34,31 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 ### 🧪 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📊 Business Intelligence & Visualization
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
 
 ## 🚀 Featured Project
+### [SaaS Retention Engine & Behavioral Analytics](https://github.com/JesusAHB25/SaaS-Retention-Engine-Behavioral-Analytics)
+**The Challenge:** Identify behavioral "Aha! Moments" using synthetic event simulation and PostgreSQL.
+* **Key Achievement:** Mathematically proven correlation ($r=0.74$) between profile completion and user lifespan using **SciPy**.
+* **Technical Stack:** Python (NumPy/Pandas), SQL (CTEs), SQLAlchemy, Seaborn.
+> [!IMPORTANT]
+> [View Executive Report on Notion](https://purring-sailboat-492.notion.site/SaaS-Retention-Engine-Behavioral-Analytics-02-09-2026-2e01d3119ed0803abe62e32ed450fe4e?source=copy_link)
+
 ### [Lumina Fashion Group: End-to-End Retail Analytics](https://github.com/JesusAHB25/Lumina-Fashion-Group-End-to-End-Retail-Analytics-Pipeline)
 **The Challenge:** Unify 4 fragmented data domains and optimize profit margins using SQL & Python.
 * **Key Achievement:** Developed a Star Schema architecture and identified a "Discount Paradox" through median-based aggregation.
 * **Strategic Outcome:** Recommended volume-based bundling to protect profitability, preventing a 15% margin erosion.
 > [!IMPORTANT]
 > [Explore the Full Strategic Case Study on Notion](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c)
-
 
 ## 📈 My GitHub Stats
 <p align="left">
