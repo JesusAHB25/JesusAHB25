@@ -47,9 +47,9 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 
 ## 🚀 Featured Project
 ### [SaaS Retention Engine & Behavioral Analytics](https://github.com/JesusAHB25/SaaS-Retention-Engine-Behavioral-Analytics)
-**The Challenge:** Identify behavioral "Aha! Moments" using synthetic event simulation and PostgreSQL.
-* **Key Achievement:** Mathematically proven correlation ($r=0.74$) between profile completion and user lifespan using **SciPy**.
-* **Technical Stack:** Python (NumPy/Pandas), SQL (CTEs), SQLAlchemy, Seaborn.
+**The Challenge:** Build an end-to-end pipeline to identify user retention drivers using synthetic event logs and a PostgreSQL cohort engine.
+* **Key Achievement:** Validated Profile Completion as the primary predictor of user longevity, backed by a 0.74 Pearson correlation and a statistically significant P-Value ($1.28e-107$) using SciPy.
+* **Technical Stack:** Python (Pandas/NumPy/SciPy), SQL (CTEs), SQLAlchemy, Seaborn.
 > [!IMPORTANT]
 > [View Executive Report on Notion](https://purring-sailboat-492.notion.site/SaaS-Retention-Engine-Behavioral-Analytics-02-09-2026-2e01d3119ed0803abe62e32ed450fe4e?source=copy_link)
 
@@ -57,6 +57,7 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 **The Challenge:** Unify 4 fragmented data domains and optimize profit margins using SQL & Python.
 * **Key Achievement:** Developed a Star Schema architecture and identified a "Discount Paradox" through median-based aggregation.
 * **Strategic Outcome:** Recommended volume-based bundling to protect profitability, preventing a 15% margin erosion.
+* **Technical Stack:** Python (NumPy/Pandas), PostgreSQL, SQLAlchemy, Seaborn.
 > [!IMPORTANT]
 > [Explore the Full Strategic Case Study on Notion](https://purring-sailboat-492.notion.site/Lumina-Fashion-Group-Retail-Analytics-End-to-End-Pipeline-2b01d3119ed08066b5f9f147da60599c)
 
