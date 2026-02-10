@@ -3,7 +3,7 @@
 </p>
 
 # Hi there, I'm Jesús 👋 🤖🧿
-### Mathematics Student & Trainee Data Scientist 🚀
+### Mathematics Student & Data Scientist Trainee 🚀
 
 **"Bridging the gap between mathematical theory and data-driven decision making."**
 
