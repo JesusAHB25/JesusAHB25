@@ -45,7 +45,7 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-BE95FF?style=for-the-badge&logo=ibm&logoColor=white)
 
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 ### [SaaS Retention Engine & Behavioral Analytics](https://github.com/JesusAHB25/SaaS-Retention-Engine-Behavioral-Analytics)
 **The Challenge:** Build an end-to-end pipeline to identify user retention drivers using synthetic event logs and a PostgreSQL cohort engine.
 * **Key Achievement:** Validated Profile Completion as the primary predictor of user longevity, backed by a 0.74 Pearson correlation and a statistically significant P-Value ($1.28e-107$) using SciPy.
