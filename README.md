@@ -48,7 +48,7 @@ I am committed to continuous growth at the intersection of mathematical rigor an
 ## 🚀 Featured Projects
 ### [SaaS Retention Engine & Behavioral Analytics](https://github.com/JesusAHB25/SaaS-Retention-Engine-Behavioral-Analytics)
 **The Challenge:** Build an end-to-end pipeline to identify user retention drivers using synthetic event logs and a PostgreSQL cohort engine.
-* **Key Achievement:** Validated Profile Completion as the primary predictor of user longevity, backed by a 0.74 Pearson correlation and a statistically significant P-Value ($1.28e-107$) using SciPy.
+* **Key Achievement:** Validated Profile Completion as the primary predictor of user longevity, backed by a 0.74 Pearson correlation and a statistically significant P-Value ($1.2821e-107$) using SciPy.
 * **Technical Stack:** Python (Pandas/NumPy/SciPy), SQL (CTEs), SQLAlchemy, Seaborn.
 > [!IMPORTANT]
 > [View Executive Report on Notion](https://purring-sailboat-492.notion.site/SaaS-Retention-Engine-Behavioral-Analytics-02-09-2026-2e01d3119ed0803abe62e32ed450fe4e?source=copy_link)
